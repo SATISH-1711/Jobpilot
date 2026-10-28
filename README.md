@@ -4,17 +4,27 @@ Track job applications on a Kanban board and check how well your resume matches 
 
 **Demo video:** [Watch the walkthrough]([https://drive.google.com/file/d/1FxbPlPfp5fgOA4Lt7ChHRxr5zwC9WOyy/view?usp=sharing])
 
-|REgister and Login |
+| REgister and Login |
+
 ![Register and Login](docs/Register%20and%20login.PNG)
 
 |Kanban board |
-![Kanban board](docs/board.png)
 
-| Resume analyzer | Dashboard |
-|---|---|
-| ![Analyzer](docs/analyzer.png) | ![Dashboard](docs/dashboard.png) |
+![Kanban board](docs/board.PNG)
+
+| Resume analyzer |
+
+![Analyzer](docs/analyzer.PNG) 
+
+| Dashboard |
+
+![Dashboard](docs/dashboard.PNG) |
+
+|Add application |
 
 ![Add application](docs/add-card.png)
+
+| Notification |
 ![Notifications](docs/notifications.png)
 
 ## Features
