@@ -22,10 +22,10 @@ Track job applications on a Kanban board and check how well your resume matches 
 
 |Add application |
 
-![Add application](docs/add-card.png)
+![Add application](docs/Add%20_application.PNG)
 
 | Notification |
-![Notifications](docs/notifications.png)
+![Notifications](docs/notifications.PNG)
 
 ## Features
 - Register and log in (token authentication); each user only sees their own data
