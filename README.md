@@ -2,7 +2,7 @@
 
 Track job applications on a Kanban board and check how well your resume matches a job description.
 
-**Demo video:** [Watch the walkthrough]([https://drive.google.com/file/d/1FxbPlPfp5fgOA4Lt7ChHRxr5zwC9WOyy/view?usp=sharing])
+**Demo video:** [Watch the walkthrough](https://drive.google.com/file/d/1FxbPlPfp5fgOA4Lt7ChHRxr5zwC9WOyy/view?usp=sharing)
 
 | REgister and Login |
 
@@ -22,7 +22,7 @@ Track job applications on a Kanban board and check how well your resume matches 
 
 |Add application |
 
-![Add application](docs/Add%20_application.PNG)
+![Add application](docs/add-cart.PNG)
 
 | Notification |
 ![Notifications](docs/notifications.PNG)
