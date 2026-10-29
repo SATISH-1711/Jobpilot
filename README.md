@@ -4,28 +4,25 @@ Track job applications on a Kanban board and check how well your resume matches 
 
 **Demo video:** [Watch the walkthrough](https://drive.google.com/file/d/1FxbPlPfp5fgOA4Lt7ChHRxr5zwC9WOyy/view?usp=sharing)
 
-| REgister and Login |
+## Screenshots
 
-![Register and Login](docs/Register%20and%20login.PNG)
+### Register and login
+![Register and login](docs/Register%20and%20login.PNG)
 
-|Kanban board |
-
+### Kanban board
 ![Kanban board](docs/board.PNG)
 
-| Resume analyzer |
+### Resume analyzer
+![Resume analyzer](docs/analyzer.PNG)
 
-![Analyzer](docs/analyzer.PNG) 
+### Dashboard
+![Dashboard](docs/dashboard.PNG)
 
-| Dashboard |
+### Add application
+![Add application](docs/add-card.PNG)
 
-![Dashboard](docs/dashboard.PNG) |
-
-|Add application |
-
-![Add application](docs/add-cart.PNG)
-
-| Notification |
-![Notifications](docs/notifications.PNG)
+### Notifications
+![Notifications](docs/notification.PNG)
 
 ## Features
 - Register and log in (token authentication); each user only sees their own data
